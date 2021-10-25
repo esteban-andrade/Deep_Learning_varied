@@ -1,1 +1,3 @@
-Intro_deep_Learning
+Introduction to Deep Learning.
+
+1. Logistic Regression
