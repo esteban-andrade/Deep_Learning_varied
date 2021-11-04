@@ -4,4 +4,13 @@ Deep Learning Work.
 2. Artificial Neural Networks (ANN)
 3. Convolutional Neural Networks (CNN)
 4. Recurrent Neural Networks (RNN)
-5. Self Organizing Maps
+5. Self Organizing Map
+
+
+Prerequisites. 
+Tensorflow
+Keras
+Numpy 
+Pandas
+Python (Of course!)
+Jypiter Notebooks
