@@ -8,9 +8,9 @@ Deep Learning Work.
 
 
 Prerequisites. 
-Tensorflow
-Keras
-Numpy 
-Pandas
-Python (Of course!)
-Jypiter Notebooks
+- Tensorflow
+- Keras
+- Numpy 
+- Pandas
+- Python (Of course!)
+- Jypiter Notebooks
