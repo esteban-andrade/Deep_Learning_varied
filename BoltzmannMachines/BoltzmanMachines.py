@@ -153,6 +153,11 @@ def main():
 
             rbm.train(v0, vk, ph0, phk)
             train_loss += torch.mean(torch.abs(v0[v0 >= 0]-vk[v0 >= 0]))
+
+            # RMSE here
+            #train_loss += np.sqrt(torch.mean((v0[v0 >= 0] - vk[v0 >= 0])**2))
+            # Average Distance
+            # train_loss += torch.mean(torch.abs(v0[v0 >= 0] - vk[v0 >= 0]))  # Average Distance here
             counter += 1
 
         print('epoch: '+str(epoch)+' loss: '+str(train_loss/counter))
@@ -170,6 +175,9 @@ def main():
             _, h = rbm.sample_h(v)
             _, v = rbm.sample_v(h)
             test_loss += torch.mean(torch.abs(vt[vt >= 0] - v[vt >= 0]))
+            # test_loss += np.sqrt(torch.mean((vt[vt>=0] - v[vt>=0])**2)) # RMSE here
+            # Average Distance
+            #  test_loss += torch.mean(torch.abs(vt[vt>=0] - v[vt>=0])) # Average Distance here
             counter += 1
 
         print('test loss: '+str(test_loss/counter))
