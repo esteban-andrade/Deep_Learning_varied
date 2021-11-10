@@ -5,6 +5,8 @@ Deep Learning Work.
 3. Convolutional Neural Networks (CNN)
 4. Recurrent Neural Networks (RNN)
 5. Self Organizing Map
+6. Boltzman Machines
+7. AutoEncoders
 
 
 Prerequisites. 
