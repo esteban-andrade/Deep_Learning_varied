@@ -13,9 +13,9 @@ python3 Challenge.py
 ```
 
 #### DEPENCIES
-OPENCV
-Tensorflow
-numpy 
-Tensorflow GPU
-Object detection Tensorflow [GithubREPO](https://github.com/tensorflow/models)
+* OPENCV
+* Tensorflow
+* numpy 
+* Tensorflow GPU
+* Object detection Tensorflow [GithubREPO](https://github.com/tensorflow/models)
 
