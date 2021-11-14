@@ -19,3 +19,5 @@ python3 Challenge.py
 * Tensorflow GPU
 * Object detection Tensorflow [GithubREPO](https://github.com/tensorflow/models)
 
+### EVIDENCE
+The model can be observed running on file Object Detector Running.mkv
