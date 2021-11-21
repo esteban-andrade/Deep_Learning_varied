@@ -8,6 +8,12 @@ Deep Learning Work.
 6. Boltzman Machines
 7. AutoEncoders
 
+Computer Vision
+Object Detection
+SSD
+GANS
+
+
 
 Prerequisites. 
 - Tensorflow
@@ -16,3 +22,6 @@ Prerequisites.
 - Pandas
 - Python (Of course!)
 - Jypiter Notebooks
+- OpenCV
+- Tensorflow Object Detection
+- pytorch
