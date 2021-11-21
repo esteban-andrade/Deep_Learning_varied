@@ -9,9 +9,10 @@ Deep Learning Work.
 7. AutoEncoders
 
 Computer Vision
-Object Detection
-SSD
-GANS
+- Object Detection
+- SSD
+- GANS
+- Image Generation
 
 
 
