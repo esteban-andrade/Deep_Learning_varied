@@ -1,2 +1,2 @@
-*.h5 filter=lfs diff=lfs merge=lfs -text
-*.pth filter=lfs diff=lfs merge=lfs -text
+cifar10_vgg.h5 filter=lfs diff=lfs merge=lfs -text
+ssd300_mAP_77.43_v2.pth filter=lfs diff=lfs merge=lfs -text
